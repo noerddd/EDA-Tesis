@@ -1,0 +1,7 @@
+variable,raw,processed
+rows,10936.0,575
+missing_any_sensor,668.0,0
+ph_under_5,944.0,0
+zero_tds,576.0,0
+duplicate_rows,60.0,0
+retained_1hz,,575

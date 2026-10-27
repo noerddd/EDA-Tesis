@@ -1,0 +1,8 @@
+variable,iqr_outliers,pct
+do_mg_per_l,0,0.0
+ph,0,0.0
+tds_mg_per_l,0,0.0
+depth_m,58,10.08695652173913
+groundspeed_m_s,43,7.478260869565218
+att_roll_deg,52,9.043478260869565
+att_pitch_deg,1,0.17391304347826086
